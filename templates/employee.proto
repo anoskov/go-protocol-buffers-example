@@ -1,0 +1,4 @@
+message Employee {
+    required string Name = 1;
+    optional string SSN = 2;
+}
